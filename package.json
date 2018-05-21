@@ -1,0 +1,14 @@
+{
+  "name": "scratch-react",
+  "version": "1",
+  "description": "making a react app from scratch without a boilerplate",
+  "main": "index.js",
+  "repository": "https://github.com/tony2tones/scratch-react",
+  "author": "Anthony Marques",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-react": "^6.24.1"
+  }
+}
